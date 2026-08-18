@@ -1,5 +1,5 @@
 ﻿brand,cpu brand,cpu_model,cpu_generation,cpu_cores,cpu_threads,ram,total storage,ssd,hdd,gpu_brand,gpu_vram,battery_capacity,operating_system,screen_size,ppi,touchscreen,price(in rupees)
-HP,AMD,Ryzen 5,6,6,12,16,512,1,0,Nvidia,4,50,1,15.6,300,0,60000k
+HP,AMD,Ryzen 5,6,6,12,16,512,1,0,Nvidia,4,50,1,15.6,300,0,60000
 HP,Intel,Core i7,12,8,16,32,1024,1,0,Nvidia,8,45,1,17.3,300,0,85000
 HP,AMD,Ryzen 7,7,8,16,16,1024,1,0,AMD,6,55,1,16.1,250,0,70000
 HP,Intel,Core i5,11,4,8,8,512,1,0,Nvidia,4,40,1,14,200,0,45000
